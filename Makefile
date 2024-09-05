@@ -1,5 +1,5 @@
 build:
-	docker build -t dev-tools .
+	docker buildx build -t dev-tools .
 
 shell:
 	docker run --rm -it dev-tools
