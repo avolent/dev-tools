@@ -10,8 +10,8 @@ ENV PATH="/root/.local/bin:$PATH"
 # Install Pip packages
 ENV POETRY_VERSION=1.8.0
 RUN pipx install poetry==${POETRY_VERSION}
-ENV CHECKOV_VERSION=3.2.245
-RUN pipx install checkov==${CHECKOV_VERSION}
+# ENV CHECKOV_VERSION=3.2.245
+# RUN pipx install checkov==${CHECKOV_VERSION}
 
 # Install Terraform
 ENV TERRAFORM_VERSION=1.9.5
