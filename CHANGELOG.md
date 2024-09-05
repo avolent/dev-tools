@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/avolent/dev-tools/compare/v1.0.2...v1.0.3) (2024-09-05)
+
+
+### Bug Fixes
+
+* **docker:** remove checkov install ([#6](https://github.com/avolent/dev-tools/issues/6)) ([ceaec23](https://github.com/avolent/dev-tools/commit/ceaec239d4af97d7f235fc3995db22989fa055f4))
+
 ## [1.0.2](https://github.com/avolent/dev-tools/compare/v1.0.1...v1.0.2) (2024-09-05)
 
 
