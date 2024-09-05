@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/avolent/dev-tools/compare/v1.0.1...v1.0.2) (2024-09-05)
+
+
+### Bug Fixes
+
+* **pipeline:** update docker pipeline values to fix stuck build ([#4](https://github.com/avolent/dev-tools/issues/4)) ([589360a](https://github.com/avolent/dev-tools/commit/589360a51e0ebebc2d6836576be8caf020f4c483))
+
 ## [1.0.1](https://github.com/avolent/dev-tools/compare/v1.0.0...v1.0.1) (2024-09-05)
 
 
