@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/avolent/dev-tools/compare/v1.0.0...v1.0.1) (2024-09-05)
+
+
+### Bug Fixes
+
+* **docker:** add tooling to docker image ([#2](https://github.com/avolent/dev-tools/issues/2)) ([59232d6](https://github.com/avolent/dev-tools/commit/59232d6c50c75b2642b274dd42ce2cfafc60d61f))
+
 ## 1.0.0 (2024-09-05)
 
 
